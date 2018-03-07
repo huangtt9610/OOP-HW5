@@ -1,0 +1,4 @@
+Open thread: 4
+3.141599271
+Time:6096 ms
+
